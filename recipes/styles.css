@@ -2,7 +2,7 @@ div{
     background-color: blue;
     color:white;
     font-size: 32px;
-    align: center;
+    box-align: center;
     font-weight:bold;
 }
 p{
